@@ -5,6 +5,7 @@ setup(
     version='0.5.0',
     author='David Cramer',
     author_email='dcramer@gmail.com',
+    license='BSD 3-clause',
     description='UUIDField in Django',
     url='https://github.com/dcramer/django-uuidfield',
     zip_safe=False,
